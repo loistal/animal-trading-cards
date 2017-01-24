@@ -1,0 +1,32 @@
+/* add your CSS here */
+.card {
+	width: 320px;
+	padding: 10px;
+	border: solid;
+}
+
+.animal-info {
+	border: solid;
+	margin: 10px;
+	width: 290px;
+}
+
+.interesting-facts {
+    font-style: italic;
+}
+
+h3 {
+	text-align: center;
+}
+
+img {
+	margin: 10px;
+}
+
+li {
+	list-style: none;
+}
+
+span {
+	font-weight: bold;
+}
